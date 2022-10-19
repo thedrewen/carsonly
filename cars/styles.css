@@ -59,6 +59,16 @@ div#body div.notrepub div.inline a img:hover{
     width: 30%;
 }
 
+div#body div:hover{
+    background-color: black;
+    border-radius: 25px;
+    transition: 1s;
+    padding: 1%;
+}
+div#body div{
+    transition: 1s;
+}
+
 
 /* footer */
 footer p{
