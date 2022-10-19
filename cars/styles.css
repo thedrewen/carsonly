@@ -75,4 +75,5 @@ footer p{
     border: wheat;
     border-radius: 25px;
     padding: 1%;
+    position: absolute; bottom: 0; left: 0; right: 0
 }
