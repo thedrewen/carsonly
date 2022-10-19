@@ -25,3 +25,9 @@ header nav ul li a{
     color: white;
     text-decoration: none;
 }
+header nav ul li a:hover{
+    color: rgb(99, 99, 99);
+    text-decoration: none;
+    
+    transition: 1s;
+}
