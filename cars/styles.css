@@ -49,12 +49,10 @@ div#body div.notrepub div.inline{
 }
 div#body div.notrepub div.inline a img{
     width: 25%;
-    margin-left: 10%;
     transition: 1s;
 }
 div#body div.notrepub div.inline a img:hover{
     width: 25%;
-    margin-left: 10%;
     transition: 1s;
     width: 30%;
 }
