@@ -46,9 +46,16 @@ div#body{
 div#body div.notrepub div.inline{
     display: inline-block;
 }
-div#body div.notrepub div.inline a img{
+div#body div.notrepub div.inline a img:not(:hover){
     width: 25%;
     margin-left: 10%;
+    transition: 1s;
+}
+div#body div.notrepub div.inline a img:hover{
+    width: 25%;
+    margin-left: 10%;
+    transition: 1s;
+    width: 30%;
 }
 
 
