@@ -15,3 +15,9 @@ header{
     padding: 1%;
     border-radius: 25px;
 }
+
+/* Menu de navigation */
+header nav ul{
+    list-style-type: none;
+    display: inline-block;
+}
