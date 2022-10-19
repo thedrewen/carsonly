@@ -44,6 +44,7 @@ div#body{
     padding: 2%;
     color: aliceblue;
 }
+/* Div anim notre pub */
 div#body div.notrepub div.inline{
     display: inline-block;
 }
@@ -56,7 +57,22 @@ div#body div.notrepub div.inline a img:hover{
     transition: 1s;
     width: 30%;
 }
+/* Div annonces */
+div#body div.insta div.inline{
+    display: inline-block;
+}
+div#body div.insta div.inline a img{
+    width: 15%;
+    transition: 1s;
+    margin-right: 31%;
+}
+div#body div.insta div.inline a img:hover{
+    width: 20%;
+    transition: 1s;
+    width: 20%;
+}
 
+/* Div anim body */
 div#body div:hover{
     background-color: black;
     border-radius: 25px;
@@ -75,5 +91,4 @@ footer p{
     border: wheat;
     border-radius: 25px;
     padding: 1%;
-    position: absolute; bottom: 0; left: 0; right: 0
 }
