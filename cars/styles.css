@@ -1,21 +1,20 @@
 /* Body General */
-body.index{
+body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-image: url(https://www.fr.audi.be/content/dam/nemo/models/q3/q3/my-2021/1920x1080-gallery/1920x1080-audi-q3-front-side-view-my2021-81001_1.jpg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: center;
     background-attachment: fixed;
     background-color: wheat;
 }
+body.index{
+    background-image: url();
+}
 body.event{
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-image: url(https://www.carscoops.com/wp-content/uploads/2018/09/4e0f0565-michael-andretti-dodge-challenger-srt-demon.jpg);
-    background-repeat: no-repeat;
-    background-size: 100%;
-    background-position: center;
-    background-attachment: fixed;
-    background-color: wheat;
+    background-image: url();
+}
+body.actual{
+    background-image: url();
 }
 
 /* Titre principal */
