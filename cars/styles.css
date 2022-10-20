@@ -8,13 +8,13 @@ body{
     background-color: wheat;
 }
 body.index{
-    background-image: url();
+    background-image: url(img/fond/index.jpg);
 }
 body.event{
-    background-image: url();
+    background-image: url(img/fond/event.jpg);
 }
 body.actual{
-    background-image: url();
+    background-image: url(img/fond/actual.jpg);
 }
 
 /* Titre principal */
